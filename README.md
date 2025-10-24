@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hey there, I’m Sami ullah
 
-A Full-Stack Developer who loves building modern apps that are fast, secure, and scalable.
+A Full-Stack App Developer who loves building modern apps that are fast, secure, and scalable.
 I work across the stack — from pixel-perfect UIs to powerful backend APIs — using:
 
 - React.js & React Native for smooth, user-friendly interfaces
