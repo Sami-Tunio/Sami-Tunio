@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I’m Sami ullah
+Hey there, I’m Sami ullah
 
 A Full-Stack App Developer who loves building modern apps that are fast, secure, and scalable.
 I work across the stack — from pixel-perfect UIs to powerful backend APIs — using:
